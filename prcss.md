@@ -17,13 +17,9 @@
 4. Enter Recovery Mode & Open Safari.
 5. Navigate to: 
 ```
-!#https://www.github.com/assafdori/bypass-mdm
 https://www.github.com/sthanav37/mdm
 ```
 6. Copy the script below:
-```zsh
-!#curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
-```
 ```zsh
 curl https://raw.githubusercontent.com/sthanav37/mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
