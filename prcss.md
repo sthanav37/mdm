@@ -23,6 +23,10 @@ https://www.github.com/sthanav37/mdm
 ```zsh
 curl https://raw.githubusercontent.com/sthanav37/mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
+Or
+```zsh
+curl https://raw.githubusercontent.com/sthanav37/mdm/main/bypass-mdm-v2.sh -o bypass-mdm-v2.sh && chmod +x ./bypass-mdm-v2.sh && ./bypass-mdm-v2.sh
+```
 
 
 7. Launch Terminal (Utilities > Terminal).
