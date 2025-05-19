@@ -1,6 +1,6 @@
 # Bypass-MDM for MacOS 💻
 
-![mdm-screen](https://raw.githubusercontent.com/sthanav37/build/bypass-mdm/main/mdm-screen.png)
+![mdm-screen](https://raw.githubusercontent.com/sthanav37/mdm/main/mdm-screen.png)
 #### Prerequisites ⚠️
 - **It is advised to erase the hard-drive prior to starting.**
 - **It is advised to re-install MacOS using an external flash drive.**
@@ -18,14 +18,14 @@
 5. Navigate to: 
 ```
 !#https://www.github.com/assafdori/bypass-mdm
-https://www.github.com/sthanav37/build/bypass-mdm
+https://www.github.com/sthanav37/mdm
 ```
 6. Copy the script below:
 ```zsh
 !#curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 ```zsh
-curl https://raw.githubusercontent.com/sthanav37/build/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/sthanav37/mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 
